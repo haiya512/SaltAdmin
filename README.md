@@ -50,7 +50,7 @@ Ubuntu 系列<br>
 ## 三、其他依赖 ##
 依赖以下python模块
 * python-dmidecode
-* psutil
+* psutil 通过pip安装最好，yum的源RPM包版本过低
 
 安装方法：使用系统自带的包进行安装即可
 
