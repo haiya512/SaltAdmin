@@ -2,7 +2,7 @@
 #-*- coding:utf-8 -*-
 
 dbType = 'mysql'
-dbHost = 'localhost'
+dbHost = '192.168.64.129'
 dbPort = 3306
 dbName = 'saltadmin'
 dbUser = 'test'
